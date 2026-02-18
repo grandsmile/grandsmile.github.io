@@ -11,9 +11,7 @@ status:
   icon: "🎓"
 role: PhD Student in Artificial Intelligence
 bio: |
-  I am a first-year PhD student at Peking University, where my research focuses on **generative evaluation** and **agentic reasoning—specifically long-horizon planning and strategic decision-making in open-ended environments.** My academic path began early; I was admitted to the Wu Jianxiong School (Gifted Class) at Southeast University at the age of 15. I later completed my Master’s at the University of the Chinese Academy of Sciences (UCAS), serving as the Student Union President.
-
-  Before returning to academia, I spent over four years as a Deep Learning Researcher in the industry. At Baidu’s Autonomous Driving Unit, I led the development of retrieval-based trajectory planning and self-supervised pre-training frameworks, which significantly enhanced vehicle safety and intent recall in complex urban scenarios. My tenure at Lenovo AI Lab focused on AutoML and meta-learning, where I developed decoupled neural architecture search (DNAS) algorithms. My recent work, including a spotlight paper at ICML 2025, focuses on building robust evaluation frameworks for open-ended agents, bridging the gap between large-scale generative models and reliable, autonomous reasoning.
+  I am a first-year PhD student at <b>Peking University</b> researching <b>generative evaluation</b> and <b>agentic reasoning</b> within open-ended environments. My academic journey began at age 15 in the <b>Wu Jianxiong Honor College</b> at Southeast University, followed by a Master’s from <b>UCAS</b>, where I served as Student Union President. Prior to returning to academia, I spent four years as a Deep Learning Researcher at <b>Baidu’s Autonomous Driving Department</b>, leading the development of retrieval-based planning and self-supervised frameworks. My latest research, <b>MCU (ICML 2025 Spotlight)</b>, establishes generative evaluation frameworks to advance autonomous agents in open-ended domains.
 affiliations:
   - name: Peking University
     url: https://www.pku.edu.cn/
