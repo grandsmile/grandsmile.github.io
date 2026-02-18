@@ -2,18 +2,21 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: 吳健雄
-  given: Shiung Wu
-  family: Chien
-  pronunciation: Chien Shiung Wu
+  display: Xinyue Zheng (郑欣悦)
+  given: Xinyue
+  family: Zheng
+  pronunciation: Zheng Xin Yue
   pronouns: she/her
 status:
-  icon: "☕️"
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+  icon: "🎓"
+role: PhD Student in Artificial Intelligence
+bio: |
+  I am a first-year PhD student at Peking University, where my research focuses on **generative evaluation** and **agentic reasoning—specifically long-horizon planning and strategic decision-making in open-ended environments.** My academic path began early; I was admitted to the Wu Jianxiong School (Gifted Class) at Southeast University at the age of 15. I later completed my Master’s at the University of the Chinese Academy of Sciences (UCAS), serving as the Student Union President.
+
+  Before returning to academia, I spent over four years as a Deep Learning Researcher in the industry. At Baidu’s Autonomous Driving Unit, I led the development of retrieval-based trajectory planning and self-supervised pre-training frameworks, which significantly enhanced vehicle safety and intent recall in complex urban scenarios. My tenure at Lenovo AI Lab focused on AutoML and meta-learning, where I developed decoupled neural architecture search (DNAS) algorithms. My recent work, including a spotlight paper at ICML 2025, focuses on building robust evaluation frameworks for open-ended agents, bridging the gap between large-scale generative models and reliable, autonomous reasoning.
 affiliations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peking University
+    url: https://www.pku.edu.cn/
 links:
   - icon: at-symbol
     url: mailto:your-email@example.com
