@@ -11,7 +11,7 @@ status:
   icon: "🎓"
 role: PhD Student in Artificial Intelligence
 bio: |
-  I am a first-year PhD student at <b>Peking University</b> researching <b>generative evaluation</b> and <b>agentic reasoning</b> within open-ended environments. My academic journey began at age 15 in the <b>Wu Jianxiong Honor College</b> at Southeast University, followed by a Master’s from <b>UCAS</b>, where I served as Student Union President. Prior to returning to academia, I spent four years as a Deep Learning Researcher at <b>Baidu’s Autonomous Driving Department</b>, leading the development of retrieval-based planning and self-supervised frameworks. My latest research, <b>MCU (ICML 2025 Spotlight)</b>, establishes generative evaluation frameworks to advance autonomous agents in open-ended domains.
+  I am a first-year PhD student at Peking University researching generative evaluation and agentic reasoning within open-ended environments. My academic journey began at age 15 in the Wu Jianxiong Honor College at Southeast University, followed by a Master’s from UCAS, where I served as Student Union President. Prior to returning to academia, I spent four years as a Deep Learning Researcher at Baidu’s Autonomous Driving Department, leading the development of retrieval-based planning and self-supervised frameworks. My latest research, MCU (ICML 2025 Spotlight), establishes generative evaluation frameworks to advance autonomous agents in open-ended domains.
 affiliations:
   - name: Peking University
     url: https://www.pku.edu.cn/
