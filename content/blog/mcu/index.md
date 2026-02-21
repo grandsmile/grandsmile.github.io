@@ -7,8 +7,10 @@ image:
 
 
 authors: ["Xinyue Zheng"]
-tags: ["Open-world Agent", "Generative Evaluation", "ICML2025 Spotlight Paper"]
-
+tags:
+  - Open-world Agent
+  - Generative Evaluation
+  - ICML2025 Spotlight Paper
 external_link: "https://craftjarvis.github.io/MCU/"
 
 ---
