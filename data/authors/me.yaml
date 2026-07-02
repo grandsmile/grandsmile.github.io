@@ -17,17 +17,13 @@ affiliations:
     url: https://www.pku.edu.cn/
 links:
   - icon: at-symbol
-    url: mailto:your-email@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/BuildLore
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: mailto:zhengxinyue1204@gmail.com
+    label: Email
+
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    url: https://www.linkedin.com/in/xinyue-zheng-28599041a/
+    label: LinkedIn
+
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=BTtwjjwAAAAJ
+    label: Google Scholar
