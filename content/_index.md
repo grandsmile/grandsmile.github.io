@@ -2,29 +2,66 @@
 title: 'Home'
 date: 2023-10-24
 type: landing
+
 sections:
   - block: resume-biography
     content:
-      # Author slug (data/authors/<slug>.yaml)
       username: me
-      # 直接在这里写带加粗的内容，它会覆盖 yaml 里的 bio
       text: |
-        I am a first-year PhD student at **Peking University** researching **generative evaluation** and **agentic reasoning** within open-ended environments. My academic journey began at age 15 in the **Wu Jianxiong Honor College** at Southeast University, followed by a Master’s from **UCAS**, where I served as Student Union President. Prior to returning to academia, I spent four years as a Deep Learning Researcher at **Baidu’s Autonomous Driving Department**, leading the development of retrieval-based planning and self-supervised frameworks. My latest research, **MCU (ICML 2025 Spotlight)**, establishes generative evaluation frameworks to advance agents in open-ended domains.
+        I am a first-year PhD student at **Peking University**. My advisor is [Prof. Chi Zhang (张驰)](https://wellyzhang.github.io/). My research focuses on **generative evaluation** and **agentic reasoning** in open-ended and dynamically generated environments.
+
+        My academic journey began at age 15 in the **Wu Jianxiong Honor College** at Southeast University, followed by a Master’s from **UCAS**, where I served as Student Union President. Prior to returning to academia, I spent four years as a Deep Learning Researcher at **Baidu’s Autonomous Driving Department**, leading the development of retrieval-based planning and self-supervised frameworks.
+
+        My recent work develops **generative and augmented evaluation frameworks** for frontier AI systems, including **UniCode (ICML 2026)** for code reasoning and **MCU (ICML 2025 Spotlight)** for open-ended game agents.
+
     design:
       spacing:
         padding: [0, 0, 0, 0]
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
-      # Avatar customization
       avatar:
-        size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
+
   - block: collection
     content:
+      title: Blog
+      text: Research notes and essays.
       filters:
         folders:
           - blog
+        kinds:
+          - page
+      sort_by: Date
+      sort_ascending: false
     design:
+      view: card
+      columns: 3
+      fill_image: true
+      show_date: true
+      show_read_time: true
+      show_read_more: true
       spacing:
-        padding: ['3rem', 0, '6rem', 0]
+        padding: ['1rem', 0, '6rem', 0]
+  
+  - block: collection
+    content:
+      title: Publications
+      text: Published papers and preprints.
+      filters:
+        folders:
+          - publications
+        kinds:
+          - page
+      sort_by: Date
+      sort_ascending: false
+    design:
+      view: card
+      columns: 3
+      fill_image: true
+      show_date: true
+      show_read_time: false
+      show_read_more: true
+      spacing:
+        padding: ['3rem', 0, '3rem', 0]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "MCU: An Evaluation Framework for Open-Ended Game Agents"
-date: 2025-06-03
+date: 2025-07-03
 authors:
   - Xinyue Zheng
 tags:

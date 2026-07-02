@@ -2,7 +2,7 @@
 title: "UniCode: Augmenting Evaluation for Code Reasoning"
 subtitle: "A generative evaluation framework for testing whether code LLMs truly reason, rather than reuse familiar code templates."
 summary: "UniCode transforms seed programming problems into structurally augmented variants, builds robust test suites without human-written reference solutions, and diagnoses where code reasoning fails."
-date: 2026-02-14
+date: 2026-07-01
 authors: ["Xinyue Zheng"]
 tags:
   - ICML 2026
